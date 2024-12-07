@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,id,place,type
+2024-12-07T23:52:50.030Z,33.1928333,-116.1775,6.27,1.07,ci40997216,"7 km NW of Ocotillo Wells, CA",earthquake
 2024-12-07T23:22:45.410Z,38.821334838867,-122.8048324585,3.420000076294,0.78,nc75099156,"6 km NNW of The Geysers, CA",earthquake
 2024-12-07T23:17:45.010Z,33.9526667,-115.9968333,8.23,1.15,ci40997208,"22 km SSE of Twentynine Palms, CA",earthquake
 2024-12-07T23:17:20.430Z,33.4973333,-116.5033333,12.66,0.77,ci40997200,"17 km ESE of Anza, CA",earthquake
@@ -3011,4 +3012,3 @@ time,latitude,longitude,depth,mag,id,place,type
 2024-11-08T00:04:11.580Z,37.5225,-121.68516666667,4.6,1.34,nc75083751,"19 km S of Livermore, CA",earthquake
 2024-11-08T00:03:25.750Z,33.0413333,-114.9918333,4.83,1.46,ci40789679,"44 km NE of Holtville, CA",earthquake
 2024-11-08T00:01:07.820Z,36.630333333333,-121.1065,8.93,1.33,nc75083746,"11 km NNE of Pinnacles, CA",earthquake
-2024-11-07T23:42:35.130Z,33.4495,-116.402,8.12,1.47,ci40789671,"22 km N of Borrego Springs, CA",earthquake
